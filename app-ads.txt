@@ -1,0 +1,4 @@
+app-ads.txt
+
+# AdMob Authorized Digital Sellers
+google.com, pub-2258725597101421, DIRECT, f08c47fec0942fa0
